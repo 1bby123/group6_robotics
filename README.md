@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Robot - Group 6 Robotics Project
 
-[![Tic-Tac-Toe Robot Demo](https://img.youtube.com/vi/M_pyZxnDabM/0.jpg)](https://youtu.be/M_pyZxnDabM)
+[![Tic-Tac-Toe Robot Demo](https://img.youtube.com/vi/M_pyZxnDabM/maxresdefault.jpg)](https://youtu.be/M_pyZxnDabM)
 
 **[Watch Full Demo on YouTube]([https://youtu.be/M_pyZxnDabM](https://youtu.be/M_pyZxnDabM))**
 
