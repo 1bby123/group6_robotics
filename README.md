@@ -1,5 +1,9 @@
 # Tic-Tac-Toe Robot - Group 6 Robotics Project
 
+[![Tic-Tac-Toe Robot Demo](https://img.youtube.com/vi/M_pyZxnDabM/0.jpg)](https://youtu.be/M_pyZxnDabM)
+
+**[Watch Full Demo on YouTube](https://youtu.be/M_pyZxnDabM)**
+
 ## Overview
 An autonomous tic-tac-toe playing robot that uses computer vision to detect human moves and plays optimally using the minimax algorithm. The robot physically picks up and places white O pieces on a 3x3 game board while the human plays with black X pieces.
 
